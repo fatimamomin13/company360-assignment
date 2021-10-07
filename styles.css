@@ -1,0 +1,51 @@
+.row{
+    background-color: #ffcc00;
+}
+
+.card{
+    margin: 20px;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-heading{
+    background-color: rgb(240, 240, 240);
+    margin: 20px;
+    text-align: center;
+}
+.starting
+{
+    margin: 0;
+    font-size: large;
+    font-weight: bold;
+}
+.price{
+    font-size: x-large;
+    margin: 0;
+}
+
+.extra-price{
+    font-weight: lighter;
+    font-size: 15px;
+    color: rgb(38, 38, 255);
+}
+
+.link{
+    margin: auto;
+}
+
+.carousel-inner{
+    width:50%;
+  }
+
+.w-100{
+    width: 100%;
+}
+
+.w-400 {
+    width: 80%;
+    margin: 10px auto;
+    text-align: justify;
+}
